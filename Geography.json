@@ -1,0 +1,166 @@
+{
+  "data": {
+    "getAllExamOrderedNotes": {
+      "items": [
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "6bdf7286-0107-49f8-8818-615abb3ae001",
+          "sort_order": 1,
+          "exam_note": {
+            "id": "6bdf7286-0107-49f8-8818-615abb3ae001",
+            "name": "1 Syllabus & Basic Concepts",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/8f9772a2-d2fb-446a-bf24-bca875a07141.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "6e98b1b9-0aa9-4b6a-a8f7-54a79b1c470c",
+          "sort_order": 2,
+          "exam_note": {
+            "id": "6e98b1b9-0aa9-4b6a-a8f7-54a79b1c470c",
+            "name": "2 Location & Physical Features India",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/784bff65-83e0-4f7d-a934-7d51b90ef5cb.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "a98ec1a4-f49a-48a2-8a19-4f6c76fe66b9",
+          "sort_order": 3,
+          "exam_note": {
+            "id": "a98ec1a4-f49a-48a2-8a19-4f6c76fe66b9",
+            "name": "3 Weather & Climate, Seasons, Monsoon",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/d7f8d54e-6f78-46a7-813a-98e50ae797e1.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "cd2275ca-c1f2-4edc-aa42-a6f0fb560ff5",
+          "sort_order": 4,
+          "exam_note": {
+            "id": "cd2275ca-c1f2-4edc-aa42-a6f0fb560ff5",
+            "name": "4 Local Winds, Rainfall & Rivers",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/ed664867-8a06-4d60-ae8b-966b80b091f6.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "0a22c46a-51ca-491a-9c02-4ed2cf172f13",
+          "sort_order": 5,
+          "exam_note": {
+            "id": "0a22c46a-51ca-491a-9c02-4ed2cf172f13",
+            "name": "5 Different types of Rocks & Soils",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/c6161d7b-15fa-4518-9215-0c488a5fe862.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "2144b4f1-38c2-4344-8a72-265cc0a37de6",
+          "sort_order": 6,
+          "exam_note": {
+            "id": "2144b4f1-38c2-4344-8a72-265cc0a37de6",
+            "name": "6 Natural Resources - Ores & Minerals",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/dd02f6c8-90c9-4827-a8d1-fcc6f3aa3f06.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "58e7148c-3cab-4884-a62c-10f47e82237a",
+          "sort_order": 7,
+          "exam_note": {
+            "id": "58e7148c-3cab-4884-a62c-10f47e82237a",
+            "name": "7 Forest, Wildlife, Agriculture & Revolutions",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/04fb082b-23ac-4703-9dee-5bfec0763e42.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "2906ab41-4fc9-416a-b6e3-a71bcadd2902",
+          "sort_order": 8,
+          "exam_note": {
+            "id": "2906ab41-4fc9-416a-b6e3-a71bcadd2902",
+            "name": "8 Population, Literacy rate, Sex Ratio & Races",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/b234cbcd-efa3-48fb-adfb-484e461a3fa1.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "c2b0b23d-8fd9-4d98-957c-9457f30f33b0",
+          "sort_order": 9,
+          "exam_note": {
+            "id": "c2b0b23d-8fd9-4d98-957c-9457f30f33b0",
+            "name": "9  Transport & Communication - Static GK",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/7c4871fb-5b5c-4bf5-87ed-1ddabaccc5da.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "94efa75d-1223-4e30-8948-b2f7ffb15504",
+          "sort_order": 10,
+          "exam_note": {
+            "id": "94efa75d-1223-4e30-8948-b2f7ffb15504",
+            "name": "10A Tamil Nadu Geography - 1",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/023d1b5e-e012-4d7b-aeb8-f71b321b5717.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "997872ba-3dde-4e83-83d2-ea4fb6b03bc8",
+          "sort_order": 11,
+          "exam_note": {
+            "id": "997872ba-3dde-4e83-83d2-ea4fb6b03bc8",
+            "name": "10B Tamil Nadu Geography - 2",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/5f488758-0adf-4422-9946-e177f51fbd1e.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "5eb3b77a-a556-4e84-8405-3d13c1727669",
+          "sort_order": 167,
+          "exam_note": {
+            "id": "5eb3b77a-a556-4e84-8405-3d13c1727669",
+            "name": "Revision",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/7d620b6c-aaf5-42ad-91b8-ace142cc11cf.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        }
+      ],
+      "error": null,
+      "__typename": "exam_note_order_paginated_list"
+    }
+  }
+}

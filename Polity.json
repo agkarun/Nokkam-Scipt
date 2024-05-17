@@ -1,0 +1,218 @@
+{
+  "data": {
+    "getAllExamOrderedNotes": {
+      "items": [
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "109151dd-add5-4725-995c-4c87accafd71",
+          "sort_order": 4,
+          "exam_note": {
+            "id": "109151dd-add5-4725-995c-4c87accafd71",
+            "name": "1 Making of Constitution",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/1daf8520-e11d-48f7-ab44-2d7a2f20e223.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "5661c793-1ad1-4cd5-b954-f6f69953f87e",
+          "sort_order": 5,
+          "exam_note": {
+            "id": "5661c793-1ad1-4cd5-b954-f6f69953f87e",
+            "name": "2 Union & its Territory, Citizenship, & Fundamental Rights",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/926397bb-1780-4cd6-8ecf-c17b8fbac880.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "ceb629f4-4015-460b-9c49-fa174150bc9b",
+          "sort_order": 6,
+          "exam_note": {
+            "id": "ceb629f4-4015-460b-9c49-fa174150bc9b",
+            "name": "3 DPSP, Fundamental Duties & Amendment of the Constitution",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/3bc8f01d-a2a2-4a73-83a8-88906fe81b7d.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "cf83e6b5-e159-4b5a-b4b6-fd61d009d348",
+          "sort_order": 10,
+          "exam_note": {
+            "id": "cf83e6b5-e159-4b5a-b4b6-fd61d009d348",
+            "name": "4  Parliament, Funds & Standing Committees",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/ae65c617-d9ae-4a78-be72-edd4629a8496.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "8fec190e-fd4e-4811-ae28-dc364c89afe5",
+          "sort_order": 48,
+          "exam_note": {
+            "id": "8fec190e-fd4e-4811-ae28-dc364c89afe5",
+            "name": "5 State Legislature",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/6eb75861-077f-4c8e-8e36-658faa1154c3.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "af2b2da8-90d6-48b1-b31e-e7376cdd05dc",
+          "sort_order": 49,
+          "exam_note": {
+            "id": "af2b2da8-90d6-48b1-b31e-e7376cdd05dc",
+            "name": "6 Forms of Government, Evolution & Federalism",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/511f7ead-fde2-4a5b-bfae-8b2049a9ac2c.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "20f34157-5447-4adc-a032-79f8ccd7343d",
+          "sort_order": 50,
+          "exam_note": {
+            "id": "20f34157-5447-4adc-a032-79f8ccd7343d",
+            "name": "7 Union Executive - The President",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/f9b5a95a-87bd-42ff-af13-ade2944db002.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "054d9803-1f08-4f9d-90e6-4e488f476db4",
+          "sort_order": 51,
+          "exam_note": {
+            "id": "054d9803-1f08-4f9d-90e6-4e488f476db4",
+            "name": "8 Union Executive - Vice President",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/fe7800d3-870c-4e8a-9ed7-fa2e50605fe9.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "80a92ef9-7cea-400b-90c4-a4879a48e361",
+          "sort_order": 52,
+          "exam_note": {
+            "id": "80a92ef9-7cea-400b-90c4-a4879a48e361",
+            "name": "9 State Executive - Powers & Functions",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/c4dba8f5-3a64-409f-acc7-eb023b93cae0.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "b10596a8-52ee-4209-8674-40c6e8ca26be",
+          "sort_order": 53,
+          "exam_note": {
+            "id": "b10596a8-52ee-4209-8674-40c6e8ca26be",
+            "name": "10 Indian Judiciary",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/e7e7d826-31b4-4f1e-b1ea-6bed18467eac.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "d5f5acfb-6e0f-4381-9f9b-e3d06f6dda75",
+          "sort_order": 76,
+          "exam_note": {
+            "id": "d5f5acfb-6e0f-4381-9f9b-e3d06f6dda75",
+            "name": "11 Election Commission",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/5b3ad7e0-c113-4713-87b2-0ea76ca764e4.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "0e31cc2c-22ed-4438-939e-3003bfb2c9af",
+          "sort_order": 77,
+          "exam_note": {
+            "id": "0e31cc2c-22ed-4438-939e-3003bfb2c9af",
+            "name": "12 Local Self Government",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/64774251-831f-48a9-980d-9bc3bdb93924.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "507c3323-7e8d-40aa-a9a1-1730c46c8dd8",
+          "sort_order": 78,
+          "exam_note": {
+            "id": "507c3323-7e8d-40aa-a9a1-1730c46c8dd8",
+            "name": "13 Urban Local Government",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/0a64a523-df61-483d-96f5-d25e2297c58f.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "cd44da61-f5eb-4c98-947d-9a8432856c35",
+          "sort_order": 79,
+          "exam_note": {
+            "id": "cd44da61-f5eb-4c98-947d-9a8432856c35",
+            "name": "14 Centre State Relation",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/3fd08bc9-5648-4f7f-9434-7231a6010828.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "65fc842f-dff1-41dc-abb6-c9ccc34e6027",
+          "sort_order": 80,
+          "exam_note": {
+            "id": "65fc842f-dff1-41dc-abb6-c9ccc34e6027",
+            "name": "15 Grants & Finance Commission",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/8f0667c9-f45c-492f-8b15-7a50d7daeabf.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "b113304f-1cd4-47e7-a685-13391f0a526e",
+          "sort_order": 81,
+          "exam_note": {
+            "id": "b113304f-1cd4-47e7-a685-13391f0a526e",
+            "name": "16 Foreign Policy of India",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/aa145eae-3a17-481d-9a88-519dd0a843ec.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        }
+      ],
+      "error": null,
+      "__typename": "exam_note_order_paginated_list"
+    }
+  }
+}

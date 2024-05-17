@@ -1,0 +1,348 @@
+{
+  "data": {
+    "getAllExamOrderedNotes": {
+      "items": [
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "b7683e07-2a0b-4574-a3af-0387c3ccd728",
+          "sort_order": 1,
+          "exam_note": {
+            "id": "b7683e07-2a0b-4574-a3af-0387c3ccd728",
+            "name": "Syllabus Introduction",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/0199bbd5-74d3-4439-a952-d395f39895d7.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "decd4042-0667-44f0-b18e-25e38c52529b",
+          "sort_order": 2,
+          "exam_note": {
+            "id": "decd4042-0667-44f0-b18e-25e38c52529b",
+            "name": "1 IVC",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/4001096f-42ba-42da-86a2-937163a1bc79.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "b3a3ec87-945d-416a-8c97-a52cf5e5dbf9",
+          "sort_order": 3,
+          "exam_note": {
+            "id": "b3a3ec87-945d-416a-8c97-a52cf5e5dbf9",
+            "name": "2 Vedic Period",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/fe32a0d4-7072-407f-8d41-2b49ceb734a4.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "f6b358b3-8da9-4178-a7c5-81368f737ade",
+          "sort_order": 4,
+          "exam_note": {
+            "id": "f6b358b3-8da9-4178-a7c5-81368f737ade",
+            "name": "3 Buddhism and Jainism",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/9ef0f25d-0990-489b-a95c-456ce72cb271.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "fabab1bf-fb9a-41d1-8a1c-eb83c7974a0c",
+          "sort_order": 5,
+          "exam_note": {
+            "id": "fabab1bf-fb9a-41d1-8a1c-eb83c7974a0c",
+            "name": "4 16 Mahajanapadas & Mauryan Empire",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/50397cf6-e36a-4599-a994-b053985a12cb.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "3039e718-dd9d-47de-8a6a-9ed30f7df580",
+          "sort_order": 6,
+          "exam_note": {
+            "id": "3039e718-dd9d-47de-8a6a-9ed30f7df580",
+            "name": "5 The Gupta Empire",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/76bb0bdb-d799-4e21-9889-c5f43f7992ac.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "3a336d52-3782-4193-a77d-44305c40c0a7",
+          "sort_order": 7,
+          "exam_note": {
+            "id": "3a336d52-3782-4193-a77d-44305c40c0a7",
+            "name": "6 Delhi Sultanate Part - 1",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/bad76358-f1dd-4b1d-9597-ef30863b2563.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "b3c67900-437a-4354-ae42-18125f109c90",
+          "sort_order": 8,
+          "exam_note": {
+            "id": "b3c67900-437a-4354-ae42-18125f109c90",
+            "name": "7A Delhi Sultanate Part - 2",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/5b169970-801e-4544-b045-feead13b6f8d.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "1c8fee94-ca47-4bf5-9b26-73b9711f831a",
+          "sort_order": 9,
+          "exam_note": {
+            "id": "1c8fee94-ca47-4bf5-9b26-73b9711f831a",
+            "name": "7B Administration and Trade during Delhi Sultanate",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/9cbba839-02c0-4e92-8ac0-32e43fa96df5.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "28097d03-cefd-4296-b5bd-32caa7d433b1",
+          "sort_order": 10,
+          "exam_note": {
+            "id": "28097d03-cefd-4296-b5bd-32caa7d433b1",
+            "name": "8 The Mughal Empire Part 1",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/1bc925a1-3e81-408c-bd83-588ab6119e53.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "f7f40e68-d1da-4ec2-82a2-e978627b8d3b",
+          "sort_order": 11,
+          "exam_note": {
+            "id": "f7f40e68-d1da-4ec2-82a2-e978627b8d3b",
+            "name": "9 The Mughal Empire",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/3d3ade0e-9b6b-41ad-a121-aaa221513e47.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "36aecf40-17dc-49b9-9be9-b0288370c8e2",
+          "sort_order": 12,
+          "exam_note": {
+            "id": "36aecf40-17dc-49b9-9be9-b0288370c8e2",
+            "name": "10 The Vijayanagara Empire",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/5c536a5f-d2ed-45ca-85d5-1e5cbaeabac1.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "75534d6d-5f5a-479a-a701-bec7e4084395",
+          "sort_order": 13,
+          "exam_note": {
+            "id": "75534d6d-5f5a-479a-a701-bec7e4084395",
+            "name": "11 The Bahmani Kingdom",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/8939a0a5-9e58-4ec6-8ce8-b55e4ae11824.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "cf8388a4-f844-4789-ae33-4481a478f8da",
+          "sort_order": 14,
+          "exam_note": {
+            "id": "cf8388a4-f844-4789-ae33-4481a478f8da",
+            "name": "12 The Maratha Empire",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/65302a1c-8455-4d13-9f95-2bfb3761320d.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "6cd978f3-ddbd-46bc-ada5-7d345d0accd9",
+          "sort_order": 15,
+          "exam_note": {
+            "id": "6cd978f3-ddbd-46bc-ada5-7d345d0accd9",
+            "name": "13 Advent of Europeans",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/c1a44096-efb8-4124-963f-b6c7928f73f3.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "4e475528-10eb-40e8-9e58-c737b164258a",
+          "sort_order": 16,
+          "exam_note": {
+            "id": "4e475528-10eb-40e8-9e58-c737b164258a",
+            "name": "14 From Trade to Territory",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/e5069219-cb2c-46f9-a65f-a0f58cc75a4e.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "64aec57d-d06a-4fae-921b-a46fbde3aa25",
+          "sort_order": 17,
+          "exam_note": {
+            "id": "64aec57d-d06a-4fae-921b-a46fbde3aa25",
+            "name": "15 Early Revolts in Tamil Nadu against British",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/7d75d9e4-493c-4032-8833-076c649b66fe.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "ff4609f3-b11a-4cad-a95e-e8c66de02021",
+          "sort_order": 18,
+          "exam_note": {
+            "id": "ff4609f3-b11a-4cad-a95e-e8c66de02021",
+            "name": "16 Early Revolt in India against British Rule",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/65f51a55-c395-4fd1-a5e1-55247b7f8606.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "349626a4-8365-4952-9553-3e1f6a0e3e56",
+          "sort_order": 108,
+          "exam_note": {
+            "id": "349626a4-8365-4952-9553-3e1f6a0e3e56",
+            "name": "17 Indian National Movement 1885 - 1916",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/0853475f-35d2-415d-a7cb-087d327dff15.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "82bb1833-6cdf-42cb-83d2-4a3efafcd3f6",
+          "sort_order": 119,
+          "exam_note": {
+            "id": "82bb1833-6cdf-42cb-83d2-4a3efafcd3f6",
+            "name": "18 Indian National Movement 1917 - 1930",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/3534b874-adf8-4e88-acbc-43c2b13873f3.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "ec08e88d-ec43-47c7-a6c5-15914c4e1b41",
+          "sort_order": 131,
+          "exam_note": {
+            "id": "ec08e88d-ec43-47c7-a6c5-15914c4e1b41",
+            "name": "19 Indian National Movement 1930 - 1947",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/9e37a037-abf5-4178-944e-f84116e21709.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "7970e965-d42a-4857-bf1e-f35d6e376d62",
+          "sort_order": 132,
+          "exam_note": {
+            "id": "7970e965-d42a-4857-bf1e-f35d6e376d62",
+            "name": "20 Freedom Struggle in Tamil Nadu",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/cb7bf925-bfa1-447d-a6a5-780c729837c4.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "da231c2e-cf06-4aaf-bdec-4dc7337da3ea",
+          "sort_order": 153,
+          "exam_note": {
+            "id": "da231c2e-cf06-4aaf-bdec-4dc7337da3ea",
+            "name": "21 Social & Religious Reform Moments",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/4e6a5d6b-e8fc-4849-b0f7-94e4dd311a8e.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "668aad9b-6f04-4c48-ba9a-8e6e9da223a6",
+          "sort_order": 154,
+          "exam_note": {
+            "id": "668aad9b-6f04-4c48-ba9a-8e6e9da223a6",
+            "name": "22 பாண்டியக்கால தமிழகத்தில் சமூகமும் பண்பாடும்",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/ed967121-9639-4b23-9e1b-d1fa319a983c.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "ea428275-6abd-413e-a61f-9c7f5af5169a",
+          "sort_order": 155,
+          "exam_note": {
+            "id": "ea428275-6abd-413e-a61f-9c7f5af5169a",
+            "name": "23 Pallavas",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/dd27a2f5-4b71-4022-bbe1-864d9ed0b089.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "3876cd48-8c0f-4141-b887-a80d8970fe4a",
+          "sort_order": 163,
+          "exam_note": {
+            "id": "3876cd48-8c0f-4141-b887-a80d8970fe4a",
+            "name": "24 Time Line from Ancient to 1857",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/9310d718-e25f-4edf-8096-ed91ebbdf8e1.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        }
+      ],
+      "error": null,
+      "__typename": "exam_note_order_paginated_list"
+    }
+  }
+}

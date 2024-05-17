@@ -1,0 +1,166 @@
+{
+  "data": {
+    "getAllExamOrderedNotes": {
+      "items": [
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "11d58ac1-cd8c-42fd-ae62-d7be15cae95e",
+          "sort_order": 14,
+          "exam_note": {
+            "id": "11d58ac1-cd8c-42fd-ae62-d7be15cae95e",
+            "name": "1  Introduction",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/0742f906-81e8-40d4-980a-8041f076c669.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "6d4edd59-6388-4d24-bd95-44b206eb8c2a",
+          "sort_order": 15,
+          "exam_note": {
+            "id": "6d4edd59-6388-4d24-bd95-44b206eb8c2a",
+            "name": "2 Basic Concepts & Important Terms",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/fb219530-911f-4f8a-9f1a-eaa22b445b42.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "d8dc00a6-25dc-4336-822a-70f6d1a602ff",
+          "sort_order": 28,
+          "exam_note": {
+            "id": "d8dc00a6-25dc-4336-822a-70f6d1a602ff",
+            "name": "3 Agriculture & Schemes related to Agriculture",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/4e7e4d34-a258-4707-8605-90760034f07c.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "c4b8aed7-f66f-448b-8ac1-534339013ea6",
+          "sort_order": 29,
+          "exam_note": {
+            "id": "c4b8aed7-f66f-448b-8ac1-534339013ea6",
+            "name": "4 Industry, Banks, LPG & Special Economic Zones",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/ea8a2e92-20f1-4cad-87f2-cab7bc24fd4a.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "7c22d5f4-0275-422a-a668-c4d4548c4475",
+          "sort_order": 30,
+          "exam_note": {
+            "id": "7c22d5f4-0275-422a-a668-c4d4548c4475",
+            "name": "5 Rural Economy, Poverty & Unemployment",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/9910091f-06b5-45a4-8d84-afc964e77824.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "7d3b3079-3384-4630-a250-610e8638a173",
+          "sort_order": 31,
+          "exam_note": {
+            "id": "7d3b3079-3384-4630-a250-610e8638a173",
+            "name": "6 Important Schemes related to Economics",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/f93a7b41-5762-4c59-9a1d-539ffac877db.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "bcf92b2d-0581-4eda-a5fd-16a524cdd280",
+          "sort_order": 32,
+          "exam_note": {
+            "id": "bcf92b2d-0581-4eda-a5fd-16a524cdd280",
+            "name": "7 Fiscal Policy",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/84c614e4-b37a-4ecd-9c7f-6f80252cb91d.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "0361fda8-ddaf-43ff-b847-b2b251a7d78f",
+          "sort_order": 33,
+          "exam_note": {
+            "id": "0361fda8-ddaf-43ff-b847-b2b251a7d78f",
+            "name": "8 Budget and its Types",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/34eaa11f-c520-4456-8185-220284b6fd2e.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "666981a6-c117-43be-b8b1-ac363a9d7eb7",
+          "sort_order": 34,
+          "exam_note": {
+            "id": "666981a6-c117-43be-b8b1-ac363a9d7eb7",
+            "name": "9 Monetary Policy, Banking",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/f8ac5e21-a3d7-4cde-b3f6-5deb4d9436b8.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "6b681817-bb16-40fb-b39c-4ff0f9cfcf63",
+          "sort_order": 65,
+          "exam_note": {
+            "id": "6b681817-bb16-40fb-b39c-4ff0f9cfcf63",
+            "name": "10 Inflation & Types",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/260d6912-58b0-4771-873b-222ad956d57c.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "d861ea10-c334-4af1-8bd9-9e2b10fddb5d",
+          "sort_order": 66,
+          "exam_note": {
+            "id": "d861ea10-c334-4af1-8bd9-9e2b10fddb5d",
+            "name": "11 Import & Export",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/95c6315d-2cba-4bae-90ad-b0918ed10a68.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "6882dd73-0b22-4aa4-adbc-8cbe2ed9e7b5",
+          "sort_order": 166,
+          "exam_note": {
+            "id": "6882dd73-0b22-4aa4-adbc-8cbe2ed9e7b5",
+            "name": "12  Revision",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/2eb72577-9404-42d4-adec-723fcb9073ba.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        }
+      ],
+      "error": null,
+      "__typename": "exam_note_order_paginated_list"
+    }
+  }
+}

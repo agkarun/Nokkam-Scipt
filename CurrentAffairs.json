@@ -1,0 +1,166 @@
+{
+  "data": {
+    "getAllExamOrderedNotes": {
+      "items": [
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "27d3c526-39ee-439a-8a15-9606037f4525",
+          "sort_order": 95,
+          "exam_note": {
+            "id": "27d3c526-39ee-439a-8a15-9606037f4525",
+            "name": "1 PYQ in SI Exam and Tamil Nadu CA",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/860c4822-fe14-49c2-b394-db0a5f3fa29b.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "8a36c7c7-fe11-478f-893a-c7a4eb6f0ef0",
+          "sort_order": 96,
+          "exam_note": {
+            "id": "8a36c7c7-fe11-478f-893a-c7a4eb6f0ef0",
+            "name": "2 Important Schemes in Tamil Nadu",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/59f75a0c-c1cf-496b-aa9e-eef680dd91f4.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "6d806985-f4b8-44fb-b0ef-47c49fa87173",
+          "sort_order": 97,
+          "exam_note": {
+            "id": "6d806985-f4b8-44fb-b0ef-47c49fa87173",
+            "name": "3 Tamil Nadu Budget",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/c133df2e-09e7-4085-87e2-c2aa8410d888.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "ba4d713a-21a5-46a6-a35e-73b6d2d9de64",
+          "sort_order": 98,
+          "exam_note": {
+            "id": "ba4d713a-21a5-46a6-a35e-73b6d2d9de64",
+            "name": "4 Important Current Affairs in India",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/8c7abfb9-4f84-4947-afc4-8f225fabae11.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "5fe49678-2b2a-4f7c-8da2-29f0c51a9ec5",
+          "sort_order": 100,
+          "exam_note": {
+            "id": "5fe49678-2b2a-4f7c-8da2-29f0c51a9ec5",
+            "name": "5 Important Central Government Schemes",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/86dfd7cf-222a-41e8-b250-e2cc5758c6de.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "21a149b5-a001-4cee-9a21-8869c81d3579",
+          "sort_order": 101,
+          "exam_note": {
+            "id": "21a149b5-a001-4cee-9a21-8869c81d3579",
+            "name": "6 NITI AAYOG & International Indices",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/ba84c3dc-44d9-4128-8317-a53b2c52b13e.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "f68ea78d-7dec-4561-9d51-fe6d914a19e4",
+          "sort_order": 102,
+          "exam_note": {
+            "id": "f68ea78d-7dec-4561-9d51-fe6d914a19e4",
+            "name": "7  Summits And Conferences",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/14f92209-39bc-47a6-846d-aa42851f8b46.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "b1dde8ba-4490-4707-9502-b7c8184794b2",
+          "sort_order": 103,
+          "exam_note": {
+            "id": "b1dde8ba-4490-4707-9502-b7c8184794b2",
+            "name": "8 Science & Technology",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/feff0b04-eb1b-453a-8b09-cfb29c819848.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "3d46b734-0bd9-472d-85e2-5e453adf6185",
+          "sort_order": 125,
+          "exam_note": {
+            "id": "3d46b734-0bd9-472d-85e2-5e453adf6185",
+            "name": "9 Awards and Eminent Personalities",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/751ab8e0-73ca-4090-b739-c29a5ea8591e.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "d242670a-0ba8-4c24-95a1-941645055e6e",
+          "sort_order": 133,
+          "exam_note": {
+            "id": "d242670a-0ba8-4c24-95a1-941645055e6e",
+            "name": "10A Art & Culture",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/ca4694fb-fba0-4160-b7ac-30587de7e369.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "34a3a96e-2fdc-4113-a4d5-47a4dc5d74c1",
+          "sort_order": 134,
+          "exam_note": {
+            "id": "34a3a96e-2fdc-4113-a4d5-47a4dc5d74c1",
+            "name": "10B Important Medals won in Sports",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/c5df36fb-baca-46ee-b28d-bdb2d614a424.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "50c59880-1f1c-408c-b59f-ef5c922242ce",
+          "sort_order": 168,
+          "exam_note": {
+            "id": "50c59880-1f1c-408c-b59f-ef5c922242ce",
+            "name": "CA Revision",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/8b44e123-09d9-4594-9912-329826879a20.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        }
+      ],
+      "error": null,
+      "__typename": "exam_note_order_paginated_list"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "data": {
+    "getAllExamOrderedNotes": {
+      "items": [
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "90884dae-af07-4f91-92f5-72e394c0be4e",
+          "sort_order": 135,
+          "exam_note": {
+            "id": "90884dae-af07-4f91-92f5-72e394c0be4e",
+            "name": "1A Elements & Compounds - 1",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/4751503c-39cc-4ab2-8d75-cbda754381cd.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "f11e5eca-a7e1-4a69-9596-798cf9dd068e",
+          "sort_order": 136,
+          "exam_note": {
+            "id": "f11e5eca-a7e1-4a69-9596-798cf9dd068e",
+            "name": "1B Elements & Compounds - 2",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/b477b0bc-8fa8-4cdd-a1e7-6fabb9cd0ec6.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "8d023efc-5a90-4ab3-a94d-e58c9ea0f128",
+          "sort_order": 137,
+          "exam_note": {
+            "id": "8d023efc-5a90-4ab3-a94d-e58c9ea0f128",
+            "name": "2  Elements & Compounds - 3",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/12e30ac0-a797-4e00-be36-1d58440a738c.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "c09edd83-3734-4c82-b4a7-3c25babaa23f",
+          "sort_order": 146,
+          "exam_note": {
+            "id": "c09edd83-3734-4c82-b4a7-3c25babaa23f",
+            "name": "3A Acids & Bases",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/42e1386e-752b-4a08-87c6-797dd8049299.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "a2245d58-e041-449f-8a2c-0333b27f1a25",
+          "sort_order": 147,
+          "exam_note": {
+            "id": "a2245d58-e041-449f-8a2c-0333b27f1a25",
+            "name": "3B Salts",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/ac32cb5c-3e6d-4a19-9f9c-d190acfe249f.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "a5a1399e-0de6-4aab-be24-9447336c80fb",
+          "sort_order": 148,
+          "exam_note": {
+            "id": "a5a1399e-0de6-4aab-be24-9447336c80fb",
+            "name": "4 Previous Year Question Discussion",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/64627e39-2b15-4e28-bb9c-23d4ce04ca79.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        }
+      ],
+      "error": null,
+      "__typename": "exam_note_order_paginated_list"
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "getAllExamOrderedNotes": {
+      "items": [
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "bf4bcef7-28fa-4afa-be23-46f5bd02f99d",
+          "sort_order": 1,
+          "exam_note": {
+            "id": "bf4bcef7-28fa-4afa-be23-46f5bd02f99d",
+            "name": "1 Human Physiology - 1",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/45039a92-a315-404e-8c03-e2afd2464198.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "62e0c5bd-4ed5-4dcc-979e-194f7aaf018e",
+          "sort_order": 2,
+          "exam_note": {
+            "id": "62e0c5bd-4ed5-4dcc-979e-194f7aaf018e",
+            "name": "2 Human Physiology - 2",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/9784be42-dd1d-4f34-95d4-a5fadd09b872.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "00a27031-f55d-4e4a-8060-4ba79336c5f5",
+          "sort_order": 3,
+          "exam_note": {
+            "id": "00a27031-f55d-4e4a-8060-4ba79336c5f5",
+            "name": "3 Endocrine Glands",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/faab3a52-824b-4f3e-b7a8-91b50baa8e5b.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "fd730c43-b7f7-4f20-8d5a-99ca902a6a7c",
+          "sort_order": 4,
+          "exam_note": {
+            "id": "fd730c43-b7f7-4f20-8d5a-99ca902a6a7c",
+            "name": "4 Reproductive, Skeletal & Digestion",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/6c17ad39-f883-451b-afbc-6f994bc49cf3.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "46a784ba-005c-47e9-b642-89371c932f4a",
+          "sort_order": 5,
+          "exam_note": {
+            "id": "46a784ba-005c-47e9-b642-89371c932f4a",
+            "name": "5A Human Physiology - PYQ & Book reference",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/cb5ec7af-7c32-48e3-8cca-2a234647c0b4.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "cc3e611b-d756-44b2-b97c-01b7a9c92675",
+          "sort_order": 6,
+          "exam_note": {
+            "id": "cc3e611b-d756-44b2-b97c-01b7a9c92675",
+            "name": "5B Cell - Introduction & Types",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/175f1160-5525-4ece-b155-012a4e2af89d.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "2f30b1fa-9fd4-4720-9f84-8609dd2e9d09",
+          "sort_order": 7,
+          "exam_note": {
+            "id": "2f30b1fa-9fd4-4720-9f84-8609dd2e9d09",
+            "name": "6A Cell - 2, Parts & Functions",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/c0ef2c3a-7d88-4b32-8c0e-6db6be6512fd.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "65dab030-a008-4251-aee4-7dd45ee2e12d",
+          "sort_order": 8,
+          "exam_note": {
+            "id": "65dab030-a008-4251-aee4-7dd45ee2e12d",
+            "name": "6B Nucleus & Cell Division",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/d785c080-d6b3-4d4e-96b3-1f0272f40e1a.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "69f17f9b-3018-4cdd-9055-baa65f3d9db1",
+          "sort_order": 9,
+          "exam_note": {
+            "id": "69f17f9b-3018-4cdd-9055-baa65f3d9db1",
+            "name": "7A CELL- SOURCE BOOKS & PYQ ANALYSIS",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/2c360cd0-81e9-40d6-a4e1-3bc076e7d323.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "9095617a-f1b0-4e56-a405-c5e2606c3637",
+          "sort_order": 10,
+          "exam_note": {
+            "id": "9095617a-f1b0-4e56-a405-c5e2606c3637",
+            "name": "7B Human Diseases Part 1",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/b6675a0e-f8a3-4646-97c8-7bb2d31beed4.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "9390dae0-1700-4959-afcb-1965abf8c0f7",
+          "sort_order": 11,
+          "exam_note": {
+            "id": "9390dae0-1700-4959-afcb-1965abf8c0f7",
+            "name": "8 Human Diseases Part 2",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/84ea2941-c20d-4b22-9206-12d9806e9164.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "9fa1f1cb-17cf-49ef-a3bc-afa357c6062d",
+          "sort_order": 12,
+          "exam_note": {
+            "id": "9fa1f1cb-17cf-49ef-a3bc-afa357c6062d",
+            "name": "9 Human Diseases Part 3",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/22f70afc-f6e7-44e6-b87e-e6c72edf50ff.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "83003b13-c226-4839-8f5e-1a28ab5ea8c3",
+          "sort_order": 13,
+          "exam_note": {
+            "id": "83003b13-c226-4839-8f5e-1a28ab5ea8c3",
+            "name": "10 Kingdom of Bacteria",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/e8da17f7-29cc-4120-ad87-40117892b194.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "2f811fe4-46c6-428e-ba60-03eb92403803",
+          "sort_order": 14,
+          "exam_note": {
+            "id": "2f811fe4-46c6-428e-ba60-03eb92403803",
+            "name": "11 Protista, Fungi AND Plant Kingdoms",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/c3fb0dff-9b30-4ee2-9716-cf6950d02c35.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "ac80516b-87df-4764-a443-87dc68569f32",
+          "sort_order": 15,
+          "exam_note": {
+            "id": "ac80516b-87df-4764-a443-87dc68569f32",
+            "name": "12 Diet & Nutritions",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/7a61386e-7f80-44cb-9d78-28f50a28c146.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "aa2df1cc-e302-460b-b384-12c3e4745a5e",
+          "sort_order": 16,
+          "exam_note": {
+            "id": "aa2df1cc-e302-460b-b384-12c3e4745a5e",
+            "name": "Revision 1 and Animal Kingdom",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/ad45019a-3eb1-4b1a-932d-bc50b0aa29c5.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        },
+        {
+          "exam_id": "d2a8846e-02aa-485c-9b66-b520e312906f",
+          "note_id": "ed978e61-e018-423e-ad26-506153f04387",
+          "sort_order": 17,
+          "exam_note": {
+            "id": "ed978e61-e018-423e-ad26-506153f04387",
+            "name": "Revision 2 and Genetics",
+            "description": null,
+            "url": "https://blr1.vultrobjects.com/vultr-nokkam-assets-prod/answer_booklet/27d77b37-8844-42c7-960b-2b05112022ba.pdf",
+            "__typename": "exam_note"
+          },
+          "__typename": "exam_note_order"
+        }
+      ],
+      "error": null,
+      "__typename": "exam_note_order_paginated_list"
+    }
+  }
+}
